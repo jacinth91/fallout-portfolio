@@ -7,14 +7,15 @@ interface Skill {
 }
 
 const skills: Skill[] = [
+  { name: 'Node.js/NestJS', level: 95 },
   { name: 'Angular/React', level: 95 },
-  { name: 'Node.js/NestJS', level: 90 },
+  { name: 'AI/ML Enigeneering', level: 65 },
   { name: 'Java/Spring Boot', level: 85 },
   { name: 'AWS/Cloud Services', level: 80 },
   { name: 'MongoDB/SQL', level: 85 },
   { name: 'CI/CD', level: 80 },
   { name: 'Adobe Experience Manager', level: 75 },
-  { name: 'TypeScript/JavaScript', level: 90 }
+  { name: 'TypeScript/JavaScript', level: 90 },
 ];
 
 export const Stats: React.FC = () => (
