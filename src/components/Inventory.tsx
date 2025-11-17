@@ -6,13 +6,26 @@ export const Inventory: React.FC = () => (
     <h2>Inventory (Technical Skills)</h2>
     <ul>
       <li>
-        <strong>Frontend Arsenal</strong>
-        <p>Angular 14/15, React, TypeScript, JavaScript, HTML5, CSS3, Bootstrap</p>
-      </li>
-      <li>
         <strong>Backend Weaponry</strong>
         <p>Node.js, NestJS, Java, Spring Boot, Express.js</p>
       </li>
+      <li>
+        <strong>AI & ML Weaponry ( ongoing from scaler )</strong>
+        <p>
+        Python for ML, NumPy, Pandas, Matplotlib,  
+        Linear Algebra & Gradient Descent,  
+        Probability & Statistics,  
+        Machine Learning Foundations,  
+        LLMs (Claude, GPT), Prompt Engineering,  
+        AWS Bedrock, Document Analysis & Summarization  
+        <em>(In Progress)</em>
+      </p>
+      </li>
+      <li>
+        <strong>Frontend Arsenal</strong>
+        <p>Angular 14/15, React, TypeScript, JavaScript, HTML5, CSS3, Bootstrap</p>
+      </li>
+      
       <li>
         <strong>Database Vault</strong>
         <p>MongoDB, MySQL, PostgreSQL, Oracle</p>
